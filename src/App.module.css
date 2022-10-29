@@ -1,0 +1,11 @@
+header {
+  background-color: var(--gray-700);
+  padding: 4.5rem 0 5rem ;
+}
+
+.content{
+  margin: 0 auto;
+  width: 46rem ;
+  display: flex;
+  flex-direction: column;
+}
